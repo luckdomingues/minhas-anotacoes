@@ -4,7 +4,7 @@ Criamos inicialmente o repositorio no github (web).
 
 Clonamos o repositorio do github para a nosa maquina utilizando o comando "git clone"
 
-O fluxo normalmenten é:
+O fluxo normalmente é:
 - criar novos arquivos no projeto
 - salvar as alteracoes
 - versionar essas alteracoes a partir do commit
